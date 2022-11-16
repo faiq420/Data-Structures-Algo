@@ -6,6 +6,9 @@ using namespace std;
 
 int main()
 {
+
+	// int rows;
+	
 	int rows;
 	cout<<"Enter the number of rows :- ";
 	cin>>rows;
